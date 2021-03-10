@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 form {
   overflow: hidden;
   max-width: 459px;
@@ -45,3 +46,52 @@ h1 {
   margin-left: 5%;
   font-size: 25px;
 }
+=======
+form {
+  overflow: hidden;
+  max-width: 459px;
+  border: 3px solid #f1f1f1;
+}
+
+form input {
+  margin-bottom: 1rem;
+  background: #fff;
+  border: 1px solid #9c9c9c;
+}
+
+label {
+  float: left;
+  width: 150px;
+  padding-right: 0px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.btncancel {
+  margin-left: 0%;
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.container {
+  padding: 25px;
+}
+
+h1 {
+  margin-left: 5%;
+  font-size: 25px;
+}
+>>>>>>> bb0cc87181abf3c35b5668114054286e312829a0
