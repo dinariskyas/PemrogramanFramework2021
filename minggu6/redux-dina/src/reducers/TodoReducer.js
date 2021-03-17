@@ -9,8 +9,11 @@
 // text: 'learn Redux',
 // },
 // ]
+
 import { ADD_TODO, REMOVE_TODO, TOGGLE_TODO } from '../actions/actionsTypes'
+
 const INITIAL_DATA = []
+
 const TodoReducer = (state = INITIAL_DATA, action) => {
     switch (action.type) {
         case ADD_TODO:
@@ -33,4 +36,5 @@ const TodoReducer = (state = INITIAL_DATA, action) => {
             return state
     }
 }
+
 export default TodoReducer

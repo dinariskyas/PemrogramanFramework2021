@@ -6,6 +6,8 @@ import MainReducer from "./reducers/MainReducer";
 import Table from "./containers/Table";
 import registerServiceWorker from "./registerServiceWorker";
 import CreateTodo from "./containers/CreateTodo";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const store = compose(window.devToolsExtension ? window.devToolsExtension() : f =>
   f)(createStore)(MainReducer)
@@ -16,4 +18,5 @@ ReactDOM.render(
     <Table />
   </Provider>,
   document.getElementById('root'));
+
 registerServiceWorker();
