@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { addTodo } from '../actions/actionCreator'
 import { bindActionCreators } from 'redux'
+
 class CreateTodo extends Component {
     constructor(props) {
         super(props)
