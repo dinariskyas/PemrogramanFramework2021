@@ -1,0 +1,24 @@
+{
+  "keranjang": [
+    {
+      "id": 7,
+      "gambar": "https://static.bmdstatic.com/pk/product/medium/5bea2f62b144a.jpg",
+      "nama": "Turbo Dry Iron EHL 3018",
+      "harga": 135000,
+      "stok": 2,
+      "qty": 1
+    },
+    {
+      "id": 9,
+      "gambar": "https://images.philips.com/is/image/PhilipsConsumer/GC1418_02-RTP-global-001?hei=200&$jpglarge$",
+      "nama": "Philips GC1418",
+      "harga": 250000,
+      "stok": 5,
+      "qty": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

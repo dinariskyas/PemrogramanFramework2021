@@ -1,0 +1,150 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #0f5dfa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(26, 128, 127);
+}
+
+.menu li {
+  float: left;
+}
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 1s;
+}
+
+.menu li a:hover {
+  background-color: #fff;
+  color: black;
+}
+
+.btn.btn-sm.btn-warning {
+  border: none;
+  background: #007bff;
+  padding: 10px;
+  width: 25%;
+  margin-top: 20px;
+  float: right;
+  cursor: pointer;
+  color: #fff;
+  position: relative;
+  transition: 1s;
+}
+
+.btn.btn-sm.btn-warning:hover {
+  background: #4d98e7;
+}
+
+.btn-danger {
+  border: none;
+  background: #b40303;
+  padding: 4px;
+  cursor: pointer;
+  color: #fff;
+  position: relative;
+  transition: 1s;
+}
+
+.btn.btn-danger:hover {
+  background: #ee7474;
+}
+
+h2 {
+  margin-top: 10px;
+  color: black;
+}
+
+th {
+  text-align: center;
+}
+
+table.table.table-hover {
+  background-color: #e8e8e8;
+}
+
+.kartu {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  transition: all 0.3s;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.foto {
+  padding: 20px;
+}
+
+.biodata {
+  margin-top: 30px;
+}
+
+tbody.biodata {
+  font-size: 20px;
+  font-weight: 300;
+  color: rgb(0, 0, 0);
+}
+
+body {
+  background-color: #e8e8e8;
+}
+
+td.style {
+  color: rgb(118, 157, 29);
+  font-weight: bold;
+}
+
+table.table-bordered {
+  width: 633px;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+  display: flex;
+}

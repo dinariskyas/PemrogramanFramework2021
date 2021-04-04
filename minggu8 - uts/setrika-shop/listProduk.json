@@ -1,0 +1,78 @@
+{
+    "setrika": [
+      {
+        "id": 1,
+        "nama": "Miyako EI-1000M BL",
+        "harga": 96000,
+        "gambar": "https://www.miyako.co.id/wp-content/uploads/2020/12/EI-1000.png",
+        "stok": 10
+      },
+      {
+        "id": 2,
+        "nama": "Krisbow Eds-Gn300",
+        "harga": 314000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-2932177/krisbow_krisbow-setrika-listrik-eds-gn300---hijau_full05.jpg",
+        "stok": 5
+      },
+      {
+        "id": 3,
+        "nama": "Maspion HA-110",
+        "harga": 115000,
+        "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-9445324/maspion_setrika_maspion_ha_-_110_setrika_listrik_garansi_5_tahun_-_abu-abu_full01_bxtogqxy.jpg",
+        "stok": 3
+      },
+      {
+        "id": 4,
+        "nama": "PHILIPS HD 1172",
+        "harga": 299900,
+        "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/irons-steamers/Philips_HD1172_00/Philips_HD1172_00_L_1.jpg",
+        "stok": 2
+      },
+      {
+        "id": 5,
+        "nama": "Tobi Travel Steam",
+        "harga": 75000,
+        "gambar": "https://cdn.ralali.id/assets/img/Libraries/TOBI-Travel-Steamer-Iron-Setrika-Uap-Tobi-As-Seen-On-TV_Xye8g4P4Hkpak1qU_1574594323.jpg",
+        "stok": 4
+      },
+      {
+        "id": 6,
+        "nama": "Flextreme Setrika Mini",
+        "harga": 78000,
+        "gambar": "https://www.99.co/blog/indonesia/wp-content/uploads/2019/04/setrika-baju-10.jpg",
+        "stok": 7
+      },
+      {
+        "id": 7,
+        "nama": "Turbo Dry Iron EHL 3018",
+        "harga": 135000,
+        "gambar": "https://static.bmdstatic.com/pk/product/medium/5bea2f62b144a.jpg",
+        "stok": 2
+      },
+      {
+        "id": 8,
+        "nama": "Maspion EX1000",
+        "harga": 80000,
+        "gambar": "https://jualelektronik.com/wp-content/uploads/2017/04/maspion-setrika-listrik-ex1000.jpg",
+        "stok": 2
+      },
+      {
+        "id": 9,
+        "nama": "Philips GC1418",
+        "harga": 250000,
+        "gambar": "https://images.philips.com/is/image/PhilipsConsumer/GC1418_02-RTP-global-001?hei=200&$jpglarge$",
+        "stok": 5
+      },
+      {
+        "id": 10,
+        "nama": "Electrolux EDI 2004",
+        "harga": 180000,
+        "gambar": "https://media.pricebook.co.id/images/product/L/48115_L_1.jpg",
+        "stok": 3
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+  }
