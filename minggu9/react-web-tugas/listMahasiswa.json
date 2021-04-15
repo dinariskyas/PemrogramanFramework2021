@@ -1,0 +1,121 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 1841720016,
+      "nama": "Dina Risky Alin Saputri",
+      "alamat": "Jl. S Supriadi III NO. 48 Malang",
+      "hp": "085649722109",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "nim": 1841720018,
+      "nama": "Indriani Angelista",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "082655387204",
+      "angkatan": "2019",
+      "status": "cuti"
+    },
+    {
+      "id": 3,
+      "nim": 1841720190,
+      "nama": "Agit Ari Irawan",
+      "alamat": "Jl. Masjid Jowar IX No. 10 Malang",
+      "hp": "081297840634",
+      "angkatan": "2018",
+      "status": "cuti"
+    },
+    {
+      "id": 4,
+      "nim": 1841720162,
+      "nama": "Elsa Alina Putri",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "085655758940",
+      "angkatan": "2017",
+      "status": "aktif"
+    },
+    {
+      "id": 5,
+      "nim": 1841720125,
+      "nama": "Mauriska Tri Yuniarsari",
+      "alamat": "Jl. Simpang Sukun II No. 43 Malang",
+      "hp": "085749002213",
+      "angkatan": "2019",
+      "status": "lulus"
+    },
+    {
+      "id": 6,
+      "nim": 1841720127,
+      "nama": "Reynata Dwi",
+      "alamat": "Jl. Merak Sari VII No. 9 Malang",
+      "hp": "089757669234",
+      "angkatan": "2017",
+      "status": "lulus"
+    },
+    {
+      "id": 7,
+      "nim": 1841720134,
+      "nama": "Rindi Handayani",
+      "alamat": "Jl. Kedung Kandang II No. 42 Malang",
+      "hp": "085403693281",
+      "angkatan": "2017",
+      "status": "aktif"
+    },
+    {
+      "id": 8,
+      "nim": 1841720150,
+      "nama": "Ahmad Prayoga Setiawan",
+      "alamat": "Jl. Merpati VI No. 1 Malang",
+      "hp": "082234432145",
+      "angkatan": "2015",
+      "status": "aktif"
+    },
+    {
+      "id": 9,
+      "nim": 1841720144,
+      "nama": "Andini Kharisma Putri",
+      "alamat": "Jl. Pondok Pelita VII No. 55 Jakarta",
+      "hp": "081325249161",
+      "angkatan": "2016",
+      "status": "cuti"
+    },
+    {
+      "id": 10,
+      "nim": 1841720154,
+      "nama": "Kirana Putri",
+      "alamat": "Jl. Anyer Nusa IV No. 1 Malang",
+      "hp": "083424562159",
+      "angkatan": "2016",
+      "status": "cuti"
+    },
+    {
+      "id": 11,
+      "nim": 1841720054,
+      "nama": "Burhanuddin",
+      "alamat": "Jl. Adi Mulya X No. 3 Malang",
+      "hp": "081523492211",
+      "angkatan": "2019",
+      "status": "lulus"
+    },
+    {
+      "id": 12,
+      "nim": 1841720068,
+      "nama": "Osa Mahanani",
+      "alamat": "Jl. Mangir XI No. 10 Malang",
+      "hp": "089086788951",
+      "angkatan": "2015",
+      "status": "lulus"
+    },
+    {
+      "id": 1614791716321,
+      "nim": "1841720011",
+      "nama": "Subhan Indra",
+      "alamat": "Jalan Makassar No 8",
+      "hp": "089789234567",
+      "angkatan": "2015",
+      "status": "lulus"
+    }
+  ]
+}
